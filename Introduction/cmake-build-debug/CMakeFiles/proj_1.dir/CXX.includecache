@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tolapura/Desktop/School Files/CMSC 178/proj_1/AudioFile.cpp
+AudioFile.h
+/Users/tolapura/Desktop/School Files/CMSC 178/proj_1/AudioFile.h
+fstream
+-
+unordered_map
+-
+iterator
+-
+
+/Users/tolapura/Desktop/School Files/CMSC 178/proj_1/AudioFile.h
+iostream
+-
+vector
+-
+assert.h
+-
+string
+-
+
+/Users/tolapura/Desktop/School Files/CMSC 178/proj_1/main.cpp
+iostream
+-
+cmath
+-
+AudioFile.h
+/Users/tolapura/Desktop/School Files/CMSC 178/proj_1/AudioFile.h
+
